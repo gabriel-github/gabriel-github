@@ -4,8 +4,7 @@
 ### Welcome to my page!
 <p>
   I'm Gabriel, Front-end developer from 
-  <img width="18" src="https://img.icons8.com/color/48/000000/brazil.png"/>
-  <b>Brazil</b>.
+  <b>Brazil</b> <img width="18" src="https://img.icons8.com/color/48/000000/brazil.png"/>.
 </p>
 
 ### Talking about Personal Stuffs
