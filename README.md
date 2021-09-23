@@ -4,7 +4,7 @@
 ### Welcome to my page!
 <p>
   I'm Gabriel, Front-end developer from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <img src="https://img.icons8.com/color/48/000000/brazil.png"/>
   <b>Brazil</b>.
 </p>
 
