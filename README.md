@@ -58,16 +58,12 @@
 <br/>
 
 ## Coding Activity
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-github&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
-  <img style={{ flex: 1 }} height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-github&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div>  
 <div>
   <a href="https://github.com/ManuCoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuCoutinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuCoutinho&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-github&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
 
