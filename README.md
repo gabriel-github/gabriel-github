@@ -58,8 +58,6 @@
 <br/>
 
 ## Coding Activity
-
-<br/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-github&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
   <img style={{ flex: 1 }} height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-github&layout=compact&langs_count=7&theme=tokyonight"/>
