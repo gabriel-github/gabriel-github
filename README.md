@@ -43,11 +43,15 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <br/>
 
+## contacts
+
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gabriel-ferreira-developer/)
+
+
 ## Coding Activity
 
 <br/>
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin)]
-(https://www.linkedin.com/in/gabriel-ferreira-developer/)
+
 
 ![gabriel-github stats](https://github-readme-stats.vercel.app/api?username=gabriel-github&hide=contribs,prs&theme=tokyonight&show_icons=true)
 
