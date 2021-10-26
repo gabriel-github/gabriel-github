@@ -48,12 +48,13 @@
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-**DevOps**
+### :computer: DevOps
 
 ![Git](https://img.shields.io/badge/-git-121214?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-git--hub-121214?style=for-the-badge&logo=GitHub)
 
-**Business Tools**
+### :computer: Business Tools
+
 <br/>
 ![Notion](https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000)
 <br/>
