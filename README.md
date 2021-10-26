@@ -55,7 +55,6 @@
 
 ### :computer: Business Tools
 
-<br/>
 ![Notion](https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000)
 <br/>
 
