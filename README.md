@@ -9,18 +9,18 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm currently learning on something cool :wink:;
+- 👩🏻‍💻 I'm currently learning on something cool how React Native, NodeJS, Elixir.
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about ReactJS, I am happy to help;
+
+- 👦 pronouns him/his
 
 - 🏆  I'm always studying new tools;
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/gabriel-ferreira-developer/">
-  <code><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>
-</a>
-
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/gabriel-ferreira-developer/)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielferrsantos201@gmail.com)](mailto:gabrielferrsantos201@gmail.com)
 
 
 ## My Development Stack
@@ -42,11 +42,6 @@
 **Business Tools**
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <br/>
-
-## contacts
-
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gabriel-ferreira-developer/)
-
 
 ## Coding Activity
 
