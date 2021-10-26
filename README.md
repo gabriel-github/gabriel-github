@@ -1,7 +1,7 @@
 
 # Hey 🤙 welcome to my profile!
+![header_](https://user-images.githubusercontent.com/51973430/138963069-76943891-3389-42de-86d5-424020f7257c.png)
 
-### Welcome to my page!
 <p>
   I'm Gabriel, Front-end developer from 
   <b>Brazil</b> <img width="22" src="https://img.icons8.com/color/48/000000/brazil.png"/>
