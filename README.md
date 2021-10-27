@@ -25,7 +25,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gabriel-ferreira-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabrielferrsantos201@gmail.com)](mailto:gabrielferrsantos201@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-YOUTUBE-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCLq8wizNFmbayYYnR2axo0w)
+[![Youtube Badge](https://img.shields.io/badge/-YOUTUBE-c4302b?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCLq8wizNFmbayYYnR2axo0w)
 [![rocket](https://user-images.githubusercontent.com/51973430/138966403-c5fbe0c3-bd15-46a8-9b1b-5d76e1edf3c1.png)
 ](https://app.rocketseat.com.br/me/gabriel-ferreira-dos-santos)
 
