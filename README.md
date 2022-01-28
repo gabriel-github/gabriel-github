@@ -1,6 +1,5 @@
 
 # Hey 🤙 welcome to my profile!
-![header_](https://user-images.githubusercontent.com/51973430/138963069-76943891-3389-42de-86d5-424020f7257c.png)
 
 <p>
   I'm Gabriel, Front-end developer from 
