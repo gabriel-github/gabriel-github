@@ -8,7 +8,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm currently learning on something cool how React Native, NodeJS, Elixir.
+- 👩🏻‍💻 I'm currently learning on something cool how React Native, NodeJS.
 
 - 💬 Ask me about ReactJS, I am happy to help;
 
